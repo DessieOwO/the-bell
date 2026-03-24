@@ -22,3 +22,5 @@ body {background-image: url("img.jpeg"); background-repeat: no-repeat; backgroun
 .legal {position: absolute; bottom: 0; margin-top: auto; background-color: white; width: 100%; padding: 1px 0px; text-align:center;}
 
 .announce {text-align: center;}
+
+.homehead a{color: #000000; font-family: 'Courier New', monospace; font-size: 60px; text-decoration: underline; text-align: center;}
